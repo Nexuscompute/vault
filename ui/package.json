@@ -174,7 +174,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-qunit": "^7.2.0",
     "filesize": "^4.2.1",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "jsondiffpatch": "^0.4.1",
     "jsonlint": "^1.6.3",
     "loader.js": "^4.7.0",
