@@ -260,7 +260,7 @@
     "@hashicorp/ember-flight-icons": "^5.0.1",
     "ember-auto-import": "^2.7.2",
     "handlebars": "4.7.7",
-    "highlight.js": "^10.4.1",
+    "highlight.js": "^10.7.3",
     "node-notifier": "^8.0.1",
     "uuid": "^9.0.0"
   },
